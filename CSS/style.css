@@ -1,0 +1,84 @@
+/* font-family: 'Marck Script', cursive;
+font-family: 'Liu Jian Mao Cao', cursive;
+font-family: 'Mansalva', cursive;
+font-family: 'Special Elite', cursive;
+/* font-family: 'Libre Barcode 39 Text', cursive;  */
+
+.maincontainer {
+    background-color: #333
+}
+
+header {
+    background-color: whitesmoke;
+    position: sticky;
+    
+}
+   
+.logo {
+    font-family: 'Special Elite', cursive;
+    font-weight: bold;
+    color: #333;
+    padding-top: 5px;
+    padding-bottom: 0;
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: 0;
+    text-align: center; 
+    
+}
+
+body, .container, .maincontainer {
+    background-color: #333;
+    color: whitesmoke;
+    font-family: 'Special Elite', cursive;
+    line-height: 1.5em;
+    padding-top: 5px;
+    
+    }
+
+.maincontainer {
+    padding-top: 5px;
+
+
+}
+h2 {
+    text-align: center;
+}
+
+nav ul {
+   list-style-type: none;
+   text-align: center;
+   padding-top: 0;
+   margin-top: 0;    
+     
+}
+
+li {
+  display: inline;
+  list-style-type: none;
+  font-family: 'Special Elite', cursive;
+  
+}
+nav a:link {
+    padding: 0px;
+    color: red;
+}
+
+nav a:active {
+    padding: 0px;
+    background-color: whitesmoke;
+    text-decoration: none;
+    color: red;
+}
+nav a:visited {
+    padding: 0px;
+    color: purple;
+  }
+
+nav a:hover {
+    padding: 0px;
+    background-color: whitesmoke;
+    text-decoration: underline;
+    color: #333;
+  }
+
